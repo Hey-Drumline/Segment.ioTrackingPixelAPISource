@@ -10,6 +10,8 @@ ___INFO___
 
 {
   "type": "TAG",
+  "categories": ["CONVERSIONS", "ANALYTICS", "ATTRIBUTION"],
+  "description": "This custom template gives you the ability to post data to Segment's Tracking Pixel API source using GTM Server-sides GA4 client. The template automatically maps all events and user level data into the tracking pixels data schema. It auto hashes using base64 encryption and posts the required JSON object in the format that the API reads.",
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
